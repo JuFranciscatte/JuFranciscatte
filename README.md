@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Júlia Franciscatte</h1>
-<h3 align="center">ADS student | Passionate about technology and learning</h3>
+<h3 align="center">ADS | Passionate about technology and learning</h3>
 
 <div align="center">
   <a href="https://github.com/JuFranciscatte">
